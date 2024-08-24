@@ -1,7 +1,4 @@
-<h1>SAMPLE</h1>
-
-<b>Controls:</b> 
-
+<h1>SAMPLE CONTROLS</h1>
 <i>WASD</i> - Gas, Steering and Brakes</br>
 <i>Space</i> - Hand brake</br>
 <i>P</i> - Gear Up</br>
