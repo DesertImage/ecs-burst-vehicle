@@ -1,0 +1,20 @@
+{
+    "name": "ecs-burst.vehicle",
+    "rootNamespace": "",
+    "references": [
+        "DesertImage.ECS",
+        "Unity.Mathematics",
+        "DesertImage.ECS.Basic",
+        "Unity.Burst",
+        "DesertImage.Assets"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
