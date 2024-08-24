@@ -5025,7 +5025,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 411149423}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.08529239, y: -0.44072834, z: 0.042114448, w: 0.89258623}
+  m_LocalRotation: {x: 0.0852924, y: -0.44072834, z: 0.042114444, w: 0.89258623}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -12569,7 +12569,7 @@ MonoBehaviour:
   height: 0.5
   strength: 40000
   damping: 4000
-  radius: 0.3
+  radius: 0.33
   view: {fileID: 1543181330}
   friction:
     serializedVersion: 2
@@ -22755,7 +22755,7 @@ MonoBehaviour:
   height: 0.5
   strength: 40000
   damping: 4000
-  radius: 0.3
+  radius: 0.33
   view: {fileID: 105019556}
   friction:
     serializedVersion: 2
@@ -23171,7 +23171,7 @@ MonoBehaviour:
   height: 0.5
   strength: 40000
   damping: 4000
-  radius: 0.3
+  radius: 0.33
   view: {fileID: 2099044363}
   friction:
     serializedVersion: 2
@@ -24665,7 +24665,7 @@ MonoBehaviour:
   height: 0.5
   strength: 40000
   damping: 4000
-  radius: 0.3
+  radius: 0.33
   view: {fileID: 172160375}
   friction:
     serializedVersion: 2
