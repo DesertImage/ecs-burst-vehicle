@@ -39,10 +39,16 @@ namespace Game.Vehicle
             gearRatios[0] = -3.615f;
             gearRatios[1] = 0f;
             gearRatios[2] = 3.583f;
-            gearRatios[3] = 2.038f;
-            gearRatios[4] = 1.414f;
-            gearRatios[5] = 1.108f;
-            gearRatios[6] = 0.878f;
+            //Soft ones
+            gearRatios[3] = 3.038f;
+            gearRatios[4] = 2.414f;
+            gearRatios[5] = 2.108f;
+            gearRatios[6] = 1.878f;
+            //Hard ones
+            // gearRatios[3] = 2.038f;
+            // gearRatios[4] = 1.414f;
+            // gearRatios[5] = 1.108f;
+            // gearRatios[6] = 0.878f;
 
             entity.Replace
             (

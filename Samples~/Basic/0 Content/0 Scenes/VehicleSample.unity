@@ -12567,8 +12567,8 @@ MonoBehaviour:
   linkables: []
   rigidbody: {fileID: 1007545586}
   height: 0.5
-  strength: 40000
-  damping: 4000
+  strength: 30000
+  damping: 2000
   radius: 0.33
   view: {fileID: 1543181330}
   friction:
